@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+    border: 6px solid #fff;
+    font-size: 40px;
+    text-align: center;
+    outline: 5px solid #c07017;
+}
+
+table {
+    margin: 50px auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+body {
+    background-color: #afa30b87;
+}
+
+.Tictactoe {
+    width: 30%;
+    background: #202b1d;
+    margin: 88px auto;
+    padding: 20px 0;
+    color: white;
+}
+.heading{
+    color: rgb(20, 62, 177);
+    padding: 20px 0;
+}
